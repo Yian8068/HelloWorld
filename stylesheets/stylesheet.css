@@ -10,13 +10,14 @@ div:hover{
   border-radius:10%;
   height:150px;
   width:100px;
-  color:red;
+  
+  background-color:blue;
   border:2px dashed #CC0000;
 }
 #div2{
   border-radius:10%;
   height:300px;
   width:50px;
-  color:blue;
+  background-color:blue;
   border:3px dashed #CC0000;
 }
