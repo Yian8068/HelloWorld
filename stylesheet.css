@@ -1,6 +1,6 @@
 div
 {
-  display:inline;
+  display:inline-block;
 width:100px;
 height:100px;
 transition:width 5s ,height 3s;
