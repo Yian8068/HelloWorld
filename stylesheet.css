@@ -1,0 +1,36 @@
+div
+{
+width:100px;
+height:100px;
+background-image:url(https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/1450334_810648798998843_1490395634979547595_n.jpg?oh=83088ffec03f8b459c12ec04f032fe73&oe=554710D3&__gda__=1428436462_c03afb0642a9e97d6d7acce16e1779c7);
+transition:width 10s ,height 10s;
+}
+
+div:hover
+{
+width:960px;
+height:720px;
+}
+
+#div1{
+  border-radius:10%;
+  border:2px dashed #CC0000;
+}
+#div2{
+  border-radius:10%;
+
+  border:3px dashed #CC0000;
+}
+#webtitle{
+  transition:color 3s,text-shadow 3s;
+
+  font-family:Verdana;
+  /*font-size:40px;*/
+ 
+}
+#webtitle:hover
+{
+  color:red;
+  transition:color 3s,text-shadow 3s;
+  text-shadow:5px 5px 3px black;
+}
