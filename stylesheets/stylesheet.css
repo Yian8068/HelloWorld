@@ -22,7 +22,7 @@ width:200px;
 }
 #webtitle{
   transition:color 3s;
-  text-shadow:5px 5px 3px black;
+  transition:text-shadow 3s;
   font-family:Verdana;
   /*font-size:40px;*/
  
@@ -31,6 +31,6 @@ width:200px;
 {
   color:red;
   transition:color 3s;
-  
-  
+  transition:text-shadow 3s;
+  text-shadow:5px 5px 3px black;
 }
