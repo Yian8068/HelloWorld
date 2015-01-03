@@ -1,23 +1,28 @@
-div{
-  transition: width 2s,height 2s, transform 2s;
-  -webkit-transition: width 2s, height 2s, -webkit-transform 2s;
+div
+{
+width:100px;
+height:100px;
+background:yellow;
+transition-property:width 1s linear 2s;
+/* Firefox 4 */
+-moz-transition:width 1s linear 2s;
+/* Safari and Chrome */
+-webkit-transition:width 1s linear 2s;
+/* Opera */
+-o-transition:width 1s linear 2s;
 }
-div:hover{
-  width:300px;
-  height:600px;
+
+div:hover
+{
+width:200px;
 }
+
 #div1{
   border-radius:10%;
-  height:150px;
-  width:100px;
-  
-  background-color:blue;
   border:2px dashed #CC0000;
 }
 #div2{
   border-radius:10%;
-  height:300px;
-  width:50px;
   background-color:blue;
   border:3px dashed #CC0000;
 }
