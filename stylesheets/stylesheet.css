@@ -3,7 +3,7 @@ div
 width:100px;
 height:100px;
 background:yellow;
-transition-property:width 1s ;
+transition:width 2s ;
 
 }
 
