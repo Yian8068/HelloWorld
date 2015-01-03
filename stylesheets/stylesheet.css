@@ -21,13 +21,14 @@ width:200px;
   border:3px dashed #CC0000;
 }
 #webtitle{
+    transform:rotate(30deg);
+  transition:color 3s;
   font-family:Verdana;
   /*font-size:40px;*/
  
 }
 #webtitle:hover
 {
-  transform:rotate(30deg);
   color:red;
   text-shadow:5px 5px 3px black;
 }
