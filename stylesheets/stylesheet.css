@@ -4,7 +4,6 @@ width:100px;
 height:100px;
 background:yellow;
 transition:width 2s ;
-
 }
 
 div:hover
@@ -20,4 +19,15 @@ width:200px;
   border-radius:10%;
   background-color:blue;
   border:3px dashed #CC0000;
+}
+#webtitle{
+  font-family:Verdana;
+  /*font-size:40px;*/
+  color:red;
+}
+#webtitle:hover
+{
+  transform:rotate(30deg);
+  color:black;
+  text-shadow:5px 5px 3px #FF0000;
 }
