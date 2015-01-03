@@ -1,6 +1,6 @@
 div
 {
-  display:inline-block;
+ 
 width:100px;
 height:100px;
 transition:width 5s ,height 3s;
@@ -17,11 +17,13 @@ width:720px;
 height:960px;
 }
 #div1{
+   display:inline-block;
   border-radius:10%;
   background-image:url(https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpa1/v/t1.0-9/1450334_810648798998843_1490395634979547595_n.jpg?oh=83088ffec03f8b459c12ec04f032fe73&oe=554710D3&__gda__=1428436462_c03afb0642a9e97d6d7acce16e1779c7);
   border:2px solid #CC0000;
 }
 #div2{
+   display:inline-block;
   border-radius:10%;
   background-image:url(https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-frc3/v/t1.0-9/1461012_612064378857287_723824712_n.jpg?oh=522715eff5b9d646c83bd93773b207cf&oe=5522C3AE&__gda__=1428412250_883a132207ffadb4a3175853afc40ab8);
   border:3px solid #CC0000;
