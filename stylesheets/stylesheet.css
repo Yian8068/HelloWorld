@@ -3,13 +3,8 @@ div
 width:100px;
 height:100px;
 background:yellow;
-transition-property:width 1s linear 2s;
-/* Firefox 4 */
--moz-transition:width 1s linear 2s;
-/* Safari and Chrome */
--webkit-transition:width 1s linear 2s;
-/* Opera */
--o-transition:width 1s linear 2s;
+transition-property:width 1s ;
+
 }
 
 div:hover
