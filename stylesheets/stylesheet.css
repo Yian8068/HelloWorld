@@ -23,11 +23,11 @@ width:200px;
 #webtitle{
   font-family:Verdana;
   /*font-size:40px;*/
-  color:red;
+ 
 }
 #webtitle:hover
 {
   transform:rotate(30deg);
-  color:black;
-  text-shadow:5px 5px 3px #FF0000;
+  color:red;
+  text-shadow:5px 5px 3px black;
 }
