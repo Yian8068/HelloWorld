@@ -8,8 +8,8 @@ transition:width 10s ,height 10s;
 
 div:hover
 {
-width:auto;
-height:auto;
+width:600px;
+height:400px;
 }
 
 #div1{
