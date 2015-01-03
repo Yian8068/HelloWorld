@@ -21,8 +21,8 @@ width:200px;
   border:3px dashed #CC0000;
 }
 #webtitle{
-    transform:rotate(30deg);
-  transition:color 3s;
+   
+  text-shadow:5px 5px 3px black;
   font-family:Verdana;
   /*font-size:40px;*/
  
@@ -30,5 +30,7 @@ width:200px;
 #webtitle:hover
 {
   color:red;
-  text-shadow:5px 5px 3px black;
+  transition:color 3s;
+  
+  
 }
