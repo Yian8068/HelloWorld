@@ -1,13 +1,15 @@
 $(document).ready(
   $("#div1").click(function(){
-    $("#div1").toggle(1000);
+    $(this).toggle(1000);
   });
   $("#webtitle").mouseenter(function(){
-    $("#div1").fadeTo('fast',0.05);
-    
+    $(this).fadeTo('fast',0.05);
+    $("#div1").fadeOut(1000);
+    $("#div2").fadeOut(1000);  
   });
   $("#webtitle").mouseleave(function(){
-    $("#div1").fadeTo('fast',1);
-    
+    $(this).fadeTo('fast',1);
+    $("#div1").fadeIn(1000);
+    $("#div2").fadeIn(1000);
   });
 );
