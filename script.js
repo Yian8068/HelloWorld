@@ -1,9 +1,9 @@
 $(document).ready(
-  $("div").click(function(){
-    $("div").toggle(1000);
+  $("#div1").click(function(){
+    $("#div1").toggle(1000);
   });
   $("#webtitle").mouseenter(function(){
-    $("#div1").fadeto('fast',0.5);
+    $("#div1").fadeto('fast',0.05);
     
   });
   $("#webtitle").mouseleave(function(){
