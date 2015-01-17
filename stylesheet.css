@@ -6,7 +6,7 @@ height:100px;
 transition:width 5s ,height 3s;
 }
 
-#div1:hover
+/*#div1:hover
 {
 width:960px;
 height:720px;
@@ -15,7 +15,7 @@ height:720px;
 {
 width:720px;
 height:960px;
-}
+}*/
 #div1{
    display:inline-block;
   border-radius:10%;
