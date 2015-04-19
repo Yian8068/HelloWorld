@@ -1,0 +1,168 @@
+BODY, DIV, UL, LI, INPUT, SELECT { padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px; }
+
+BODY { background-color: #000; font-family: "宋体"; font-size: 12px; color: silver; line-height: 1.5em; }
+
+SELECT { font-size: 14px; color: #000; line-height: 20px; }
+INPUT { font-size: 14px; color: #000; line-height: 20px; }
+IMG { border-top-style: none; border-right-style: none; border-left-style: none; border-bottom-style: none; }
+UL { padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px; list-style-type: none; }
+LI { padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px; list-style-type: none; }
+
+H1 { text-align: center; font-size: 30px; font-family: "隶书"; color: #da1a27; font-weight: bold; }
+
+A { color: #004e00; text-decoration: none; }
+    A.hover { color: #fff; text-decoration: underline; }
+    A:visited { color: #333333; text-decoration: none; }
+    A:hover { color: #ad210e; text-decoration: underline; }
+    A:active { color: #333333; text-decoration: none; }
+
+#tbchapterlist table { width: 900px; border: 1px solid #C1DAD7; }
+#tbchapterlist td { width: 25%; height: 35px; border-right: 1px solid #C1DAD7; border-bottom: 1px solid #C1DAD7; background: #fff; color: #4f6b72; font-size: 14px; line-height: 20px; text-align: left; }
+.primary-link { width: 95%; padding-right: 8px; display: block; padding-left: 8px; font-weight: bold; font-size: 14px; background: url(/images/primary-nav-pipe.gif) silver no-repeat right 50%; float: left; padding-bottom: 9px; text-transform: uppercase; color: #333; line-height: 1.1em; padding-top: 9px; white-space: nowrap; text-decoration: none; }
+
+hr { color: #C0C0C0; height: 1px; border: 0px; border-top: 1px solid #C0C0C0; margin: 0px; padding: 0px; overflow: hidden; }
+
+#pagebottom { font-size: 12px; }
+.wd7 { font-size: 14px; color: #404040; line-height: 20px; text-decoration: none; }
+    .wd7 a, .wd7 a:visited { font-size: 14px; color: #404040; line-height: 20px; text-decoration: none; }
+.wd9 { font-size: 16px; color: #555555; line-height: 145%; padding: 5px 0 5px 5px; text-decoration: none; font-weight: normal; }
+    .wd9 a, .wd9 a:visited { font-size: 16px; color: #555555; line-height: 145%; padding: 5px 0 5px 5px; text-decoration: none; font-weight: normal; }
+.wd10 { font-size: 16px; color: #404040; line-height: 24px; font-weight: bold; text-decoration: none; }
+    .wd10 A:hover { font-size: 16px; color: #ff6600; line-height: 24px; font-weight: bold; text-decoration: none; }
+    .wd10 a, .wd10 a:visited { font-size: 16px; color: #404040; line-height: 24px; font-weight: bold; text-decoration: none; }
+
+.table1 { border-bottom: 1px #ccc solid; }
+
+.indexfont1 { color: #646464; }
+
+.indexfont2 { font-size: 12px; color: #999999; line-height: 18px; padding-top: 5px; }
+
+.index1a { font-size: 12px; color: #838383; }
+
+    .index1a a { color: #838383; text-decoration: none; }
+
+        .index1a a:hover { font-size: 12px; color: #c32424; text-decoration: none; }
+
+.index2a { font-size: 12px; color: #fff; }
+
+    .index2a a { color: #fff; text-decoration: none; }
+
+        .index2a a:hover { font-size: 12px; color: #000; text-decoration: none; }
+
+.index3a { font-size: 12px; color: #000; }
+
+    .index3a a { color: #000; text-decoration: none; }
+
+        .index3a a:hover { font-size: 12px; color: #f00; text-decoration: none; }
+
+.index4a { font-size: 14px; color: #f00; }
+
+    .index4a a { color: #f00; text-decoration: none; font-size: 14px; }
+
+        .index4a a:hover { font-size: 14px; color: #000; text-decoration: none; }
+
+.index5a { font-size: 12px; color: #6e6e6e; }
+
+    .index5a a { color: #6e6e6e; text-decoration: none; }
+
+        .index5a a:hover { font-size: 12px; color: #000; text-decoration: underline; }
+
+.index6a { font-size: 12px; color: #7f9437; }
+
+    .index6a a { color: #7f9437; text-decoration: none; }
+
+        .index6a a:hover { font-size: 12px; color: #000; text-decoration: underline; }
+
+.index7a { font-size: 12px; color: #f00; }
+
+    .index7a a { color: #f00; text-decoration: none; font-size: 12px; font-weight: bold; }
+
+        .index7a a:hover { font-size: 12px; color: #000; text-decoration: none; font-weight: bold; }
+
+.index8a { font-size: 12px; color: #f00; }
+
+    .index8a a { color: #f00; text-decoration: none; font-size: 12px; }
+
+        .index8a a:hover { font-size: 12px; color: #000; text-decoration: none; }
+
+.index9a { font-size: 12px; color: #7b3329; }
+
+    .index9a a { color: #7b3329; text-decoration: none; font-size: 12px; }
+
+        .index9a a:hover { font-size: 12px; color: #000; text-decoration: none; }
+
+.index10a { font-size: 12px; color: #0000FF; }
+
+    .index10a a { color: #0000FF; text-decoration: none; font-size: 12px; }
+
+        .index10a a:hover { font-size: 12px; color: #000; text-decoration: none; }
+
+.STYLE5 { font-size: 12px; }
+
+.STYLE9 { font-size: 14px; color: #FF0000; font-weight: bold; }
+
+.STYLE11 { font-size: 12px; font-family: "宋体"; }
+
+.STYLE22 { font-size: 12px; color: #333333; }
+
+.STYLE23 { font-size: 14px; font-weight: bold; color: #FFFFFF; }
+
+.STYLE25 { font-size: 12px; color: #FF0000; font-weight: bold; }
+
+.STYLE26 { color: #FF0000; font-size: 12px; }
+
+.STYLE28 { color: #333333; }
+
+.STYLE29 { color: #009933; }
+
+.STYLE33 { font-size: 12px; font-weight: bold; color: #666666; }
+
+.STYLE38 { color: #0000FF; }
+
+.STYLE39 { font-size: 12px; color: #0000FF; }
+
+.STYLE40 { font-size: 12px; color: #666666; }
+
+.STYLE42 { font-size: 14px; color: #333333; height: 25px; }
+
+.y-center1-zuo-xia { width: 700px; height: 300px; }
+
+.y-center1-zuo-xia_a { width: 360px; height: 290px; border-style: solid; border-width: 1px; border-color: #CCCCCC; float: left; }
+
+.y-center1-zuo-xia_a-1 { width: 360px; height: 140px; }
+
+.y-center3-a { width: 320px; height: 330px; border-right-color: #CCCCCC; border-right-style: dashed; border-right-width: 1px; float: left; }
+
+.y-center3-a-tuyou { width: 140px; height: 190px; float: left; padding-left: 8px; }
+
+.y-center3-a-xia { height: 170px; line-height: 23px; }
+
+.y-center3-a-ding { width: 290px; height: 190px; float: left; border-bottom-color: #CCCCCC; border-bottom-style: dashed; border-bottom-width: 1px; }
+
+.y-center3-a-di { width: 280px; height: 120px; float: left; }
+
+.y-center3-a-di-1 { width: 70px; height: 120px; float: left; padding-right: 17px; padding-left: 5px; }
+
+.y-center3-a-di-wenzi { width: 80px; line-height: 30px; text-align: center; }
+
+.y-center3-a-di-2wenzi { width: 280px; height: 30px; line-height: 30px; }
+
+.y-center3-a-ding-zuo { width: 120px; height: 180px; float: left; padding-right: 20px; }
+
+.y-center3-a-ding-zuozi { width: 120px; line-height: 30px; float: left; text-align: center; }
+
+.y-center3-a-di-3 { width: 280px; height: 120px; float: left; line-height: 23px; }
+
+.y-center3-c { width: 290px; height: 330px; float: left; }
+
+.y-center5 { width: 960px; height: 170px; border-style: solid; border-width: 1px; border-color: #CCCCCC; }
+
+.y-center5-xia { height: 130px; width: 900px; margin: 0 auto; }
+
+.y-center5-xia-fen { height: 130px; width: 80px; float: left; }
+
+.y-center5-xia-fen-wenzi { width: 80px; height: 30px; line-height: 30px; text-align: center; }
+
+.titlewenzi { width: 350px; height: 30px; line-height: 30px; font-weight: bold; color: #FF0000; }
+
+.titletuwen { width: 345px; height: 110px; padding-left: 5px; }
